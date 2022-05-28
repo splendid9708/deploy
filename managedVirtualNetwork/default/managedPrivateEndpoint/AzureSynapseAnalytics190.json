@@ -1,0 +1,7 @@
+{
+	"name": "AzureSynapseAnalytics190",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/f5d869ad-e9b7-49e1-8068-2a0093cd4fa3/resourceGroups/ADF-Tutorial/providers/Microsoft.Sql/servers/adftest-richard",
+		"groupId": "sqlServer"
+	}
+}
