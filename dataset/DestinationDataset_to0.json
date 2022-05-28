@@ -1,0 +1,16 @@
+{
+	"name": "DestinationDataset_to0",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "adftest",
+			"table": "Azure Blob Storage file"
+		}
+	}
+}
